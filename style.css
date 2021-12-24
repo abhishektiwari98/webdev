@@ -1,0 +1,22 @@
+.container {
+    width: 1024px;
+    margin-left: auto;
+    margin-right: auto;    
+}
+
+.nav {
+    min-height: 50px;
+}
+
+.banner {
+    height: 300px;
+    background-image: url(banner.jpeg);
+}
+
+.content {
+    min-height: 600px;
+}
+
+.footer {
+    min-height: 50px;
+}
